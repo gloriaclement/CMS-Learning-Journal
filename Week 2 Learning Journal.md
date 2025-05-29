@@ -1,16 +1,16 @@
-### ﻿Week 2 -Learning  Journal
+## ﻿Week 2 -Learning  Journal
 
 
-# Learning Activities & Resources
+### Learning Activities & Resources
 
 
 
-# Estimated Hours
+### Estimated Hours
 Joomla installation: 
 
 
-# Content Insights
+### Content Insights
 
 
-# Career/Employability/Learning Insights
+### Career/Employability/Learning Insights
 
