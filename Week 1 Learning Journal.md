@@ -14,5 +14,17 @@ I spent approximately 2 hours building the website and 6 hours troubleshooting a
 # Content Insights
 Building a website from scratch significantly refreshed my understanding of HTML, CSS, and server-side hosting—skills I first learned during my initial year as an IT student.
 
+* Cloud Provider: AWS (Amazon Web Services)
+
+* Compute Service: EC2 (Elastic Compute Cloud)
+
+* Operating System: Ubuntu 22.04.5 LTS
+
+* Web Server Software: Apache HTTP Server (apache2)
+
+* Hosting Type: Public IP hosting (without a domain yet)
+
+* Files Hosted At: /var/www/html/ on the EC2 instance
+
 # Career/Employability/Learning Insights
 Completing this practical gave me greater confidence in using AWS to host a website. It also motivated me to explore additional AWS learning resources and consider pursuing AWS certification as a way to enhance my technical skills and career prospects.
