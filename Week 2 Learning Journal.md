@@ -2,7 +2,7 @@
 
 
 ### Learning Activities & Resources
-
+* HOW TO INSTALL Joomla 4 on XAMPP, cPanel & AWS: 4 Easy Methods | Joomla Tutorial - https://www.youtube.com/watch?v=xF8MCvSTJLI&list=PLCxCi7K8musaNBepi-Pdj9Ij9nSwfM8J1
 
 
 ### Estimated Hours
