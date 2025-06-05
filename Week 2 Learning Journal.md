@@ -2,6 +2,7 @@
 
 
 ### Learning Activities & Resources
+This week, I focused on hands-on learning and self-directed exploration of Joomla installation and website management. The following resources were particularly helpful:
 * HOW TO INSTALL Joomla 4 on XAMPP, cPanel & AWS: 4 Easy Methods | Joomla Tutorial - https://www.youtube.com/watch?v=xF8MCvSTJLI&list=PLCxCi7K8musaNBepi-Pdj9Ij9nSwfM8J1
 Provided step-by-step guidance on different ways to install Joomla on local and cloud-based platforms, including XAMPP and cPanel.
 
