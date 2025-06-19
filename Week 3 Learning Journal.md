@@ -11,7 +11,7 @@ This week, I focused on hands-on learning and self-directed exploration of WordP
 * XAMPP control panel: This was already done in week 2, so this didn't take long, connecting to the DB (phpMyAdmin)
 * WordPress installation: 30 minutes to go through instructions and install
 * Website: 5 hours to go through instructions and videos on how to create pages and add images using WordPress, and an additional 3 hours to create my website.
-*Hosting: 1 hour spent on hosting via CloudAccess.net, but unsuccessful. WordPress couldn't load, so I am assuming I need to pay for SSL in order for it to work, as that was an error given.
+* Hosting: 1 hour spent on hosting via CloudAccess.net, but unsuccessful. WordPress couldn't load, so I am assuming I need to pay for SSL in order for it to work, as that was an error given.
 
 
 ### Content Insights
