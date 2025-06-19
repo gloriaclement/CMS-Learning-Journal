@@ -4,7 +4,7 @@
 ### Learning Activities & Resources
 This week, I focused on hands-on learning and self-directed exploration of WordPress installation and website management. The following resources were invaluable:
 - Week 3 Videos on Learn JCU
-- LinkedIn Learn videos
+- LinkedIn Learn videos - https://www.linkedin.com/learning/paths/getting-started-with-wordpress
 
 
 ### Estimated Hours
