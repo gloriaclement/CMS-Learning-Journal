@@ -1,17 +1,36 @@
-## ﻿Week 4 -Learning  Journal
+# Week 4 – Learning Journal
+
+## Learning Activities & Resources
+This week, I completed Prac 4: Local Development & Deployment, where I successfully installed and configured WordPress 
+on a local development server using XAMPP. To demonstrate dynamic database interaction, I enabled and tested the comment 
+functionality on a blog post, which confirmed proper communication with the MySQL database. I also revisited previous 
+CMS-based practical tasks, including installing and configuring WordPress. Additionally, I used phpMyAdmin to view and
+verify data changes in the wp_comments table. Through these activities, I deepened my understanding of how CMS platforms 
+operate and how PHP, Apache, and MySQL integrate within a local development environment.
+
+## Estimated Hours
+- WordPress local installation and setup: **20 minutes**  
+- Testing and enabling comment features: **5 minutes**  
+- Revisiting earlier practical and CMS configurations: **1 hour**  
+- Documentation and screenshot preparation for submission: **30 minutes**  
 
 
-### Learning Activities & Resources
-
-
-### Estimated Hours
-
-
-
-### Content Insights
+## Content Insights
+- Gained a deeper understanding of how CMS platforms manage content and interact with databases.
+- Learned how to set up a **local development environment** using XAMPP, including configuring databases and linking them to a CMS.
+- Realised the importance of testing interactivity features (like commenting) to ensure backend database connectivity.
 
 
 
-### Career/Employability/Learning Insights
-
+## Career/Employability/Learning Insights
+Building and deploying local CMS websites has significantly enhanced my technical fluency with real-world digital tools
+commonly used across the IT industry. As I encountered and resolved issues related to file permissions,
+plugin compatibility, and database connection errors, I improved my problem-solving and troubleshooting skills—skills
+that are essential in roles such as IT support, web development, and DevOps. Gaining experience with the deployment process
+has also prepared me for client-facing projects or freelancing, where it's common to develop websites locally before moving
+them to a live production environment. Through working with content management systems like WordPress and Joomla, I’ve built
+a stronger portfolio and skill set that supports career pathways into junior developer, technical support, or web
+administrator roles. Additionally, hands-on use of industry-relevant tools such as phpMyAdmin, cPanel, CloudAccess, and
+various CMS plugins has given me practical knowledge applicable in many professional hosting and content management
+environments.
 
