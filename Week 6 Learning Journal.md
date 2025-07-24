@@ -1,8 +1,8 @@
 # Week 6 – Learning Journal
-This week focused on setting up the collaborative infrastructure for our team project. As a group, we established key platforms for communication, version control, and project management. We created a GitHub repository using the provided GitHub Classroom link to manage our version control. One team member created a Trello board by copying the template and making it public, then added all team members for visibility and task assignment.
-We are also using Discord (in place of Slack, as agreed by the group) for direct communication and real-time progress tracking. Our Trello board will includes a “Group Agreement” that outlines our expectations, contact details, and initial role distribution. Integration steps were also followed to connect GitHub and Trello to our communication platform for streamlined alerts and updates.
 
 ## Learning Activities & Resources
+This week focused on setting up the collaborative infrastructure for our team project. As a group, we established key platforms for communication, version control, and project management. We created a GitHub repository using the provided GitHub Classroom link to manage our version control. One team member created a Trello board by copying the template and making it public, then added all team members for visibility and task assignment.
+We are also using Discord (in place of Slack, as agreed by the group) for direct communication and real-time progress tracking. Our Trello board will includes a “Group Agreement” that outlines our expectations, contact details, and initial role distribution. Integration steps were also followed to connect GitHub and Trello to our communication platform for streamlined alerts and updates.
 
 ## Estimated Hours
 30 minutes  – setup of Github, Trello and Discord/Slack
