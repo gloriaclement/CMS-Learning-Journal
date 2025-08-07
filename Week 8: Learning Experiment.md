@@ -32,7 +32,7 @@ For both methods, I recorded:
 
 ---
 
-### 📊 Results
+###  Results
 
 | Study Method             | Avg. Focus Time | Avg. Quiz Score | Energy/Focus Rating |
 |--------------------------|------------------|------------------|----------------------|
@@ -54,5 +54,5 @@ For both methods, I recorded:
 
 ---
 
-## ✅ Next Steps
+## Next Steps
 I plan to fine-tune this method by experimenting with different Pomodoro intervals and adding brief movement/stretching breaks during the 5-minute rest periods.
