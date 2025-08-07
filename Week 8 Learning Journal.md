@@ -8,7 +8,7 @@ To support my learning, I designed and ran a **learning experiment** using the *
 
 Resources used:
 - [WordPress Developer Handbook – Theme Development](https://developer.wordpress.org/themes/)
-- YouTube tutorials on building child themes
+- LinkedIn tutorials on building custom themes- https://www.linkedin.com/learning/wordpress-building-themes-from-scratch-using-underscores-2/welcome
 - Course practicals and sample theme files
 
 ---
