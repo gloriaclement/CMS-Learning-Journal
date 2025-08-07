@@ -1,4 +1,4 @@
-# Week 6 – Learning Journal
+# Week 7 – Learning Journal
 
 ## Learning Activities & Resources
 
