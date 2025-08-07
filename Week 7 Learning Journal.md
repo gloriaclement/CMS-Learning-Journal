@@ -21,6 +21,7 @@ Working directly with PHP helped me understand the fundamentals that many CMS pl
 - foreach and while loops allowed me to dynamically generate content, similar to how WordPress loops through posts.
 - I used if/else to add a “Sunday Special” message, learning how dynamic logic can personalize user experience.
 - Creating a custom function to greet users taught me about reusability in PHP code.
+  
 These concepts are abstracted away in CMS platforms, but building them manually helped me appreciate what’s happening behind the scenes
 
 
