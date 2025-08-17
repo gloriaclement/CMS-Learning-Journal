@@ -1,8 +1,6 @@
 
 # Week 9 – Learning Journal
 
-# Week 9 – Learning Journal
-
 ## Learning Activities & Resources
 In Week 9, I focused on Sass (Syntactically Awesome Stylesheets) and experimented with building a simple website that was not based on WordPress. The task required demonstrating Sass fundamentals such as variables, nesting, mixins, and extend/inheritance. I set up a suitable workflow to automate the compilation of SCSS into CSS, ensuring my workflow reflected professional practices. I created an original HTML page and connected it with my Sass stylesheet, applying structured styling rules. My SCSS file included variables for consistent colour schemes, nesting for logical organisation of selectors, mixins to reuse common CSS properties (e.g., flexbox layout), and extend/inheritance for shared styling across multiple elements. This approach highlighted the efficiency and maintainability benefits of Sass compared to plain CSS.
 
