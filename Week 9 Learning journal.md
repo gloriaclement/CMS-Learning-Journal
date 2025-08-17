@@ -9,7 +9,7 @@ In Week 9, I focused on Sass (Syntactically Awesome Stylesheets) and experimente
 - https://www.linkedin.com/learning/sass-essential-training/welcome
 
 ## Estimated Hours
-- Approx. 6 hours (including setup, coding, testing, and refining workflow).
+- Approx. 24 hours (including setup, coding, testing, and refining workflow).
 
 ## Content Insights
 The exercise revealed the power of Sass in managing larger or more complex styling projects. Variables streamlined colour and typography management, allowing for easy global changes. Nesting reduced repetition and provided clear hierarchy in styles, making the stylesheet more readable. Mixins allowed me to avoid duplicating code for recurring patterns such as vendor-prefixed properties or layout rules. Extend/inheritance was particularly useful for keeping the code DRY (Don’t Repeat Yourself), enabling multiple elements to share a common style base. Overall, I learned how automation tools can enhance efficiency by compiling SCSS into CSS seamlessly, a skill transferable to real-world development workflows.
